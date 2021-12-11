@@ -1,4 +1,6 @@
-<h1 align="center">Applied Natural Language Processing CSCI544 20201<img width="10%" src="./usc.jpg" /><link rel="stylesheet" type="text/css" media="all" href="./css/logo.css"/></h1>
+<div align="center"> <img width="10%" src="./usc.jpg" /></div>
+<h1 align="center">Applied Natural Language Processing CSCI544 20201<link rel="stylesheet" type="text/css" media="all" href="./css/logo.css"/></h1>
+	
 
 Offered by *Mark Core* from **University of Southern California, Los Angeles**
 ###### Course website: https://nld.ict.usc.edu/cs544-spring2020/
